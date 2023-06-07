@@ -23,6 +23,8 @@ function how(){
         li.innerHTML = inputBox.value;
 
         list.appendChild(li)
+
+        
         let btn = document.createElement("button")
 
         btn.innerHTML = "-"
